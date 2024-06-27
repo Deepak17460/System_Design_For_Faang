@@ -159,5 +159,6 @@ Learn System Design concepts and prepare for interviews using free resources.
 ## Blogs for System Design
 - [Tech Dummies Narendra L](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 -[Must get this repo for Better idea on Tech](https://github.com/ashishps1?tab=repositories)
+-[Must read Newsletter](https://blog.algomaster.io/)
 
 
