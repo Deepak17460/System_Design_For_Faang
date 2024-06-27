@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://substackcdn.com/image/fetch/w_1272,h_715,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb93edef-9bb2-45f5-a0cd-fd44f23e44f0_1728x1046.png" width="350" height="200">
+  <img src="https://cdn4.vectorstock.com/i/1000x1000/64/33/planning-and-designing-concept-icon-system-vector-29166433.jpg" width="350" height="200">
 </p>
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://blog.algomaster.io/">Newsletter</a>
