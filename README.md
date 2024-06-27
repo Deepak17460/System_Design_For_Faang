@@ -155,3 +155,8 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
 - [sudoCODE](https://www.youtube.com/@sudocode)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
+
+## Blogs for System Design
+- [Tech Dummies Narendra L](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
+
+
