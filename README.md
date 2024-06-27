@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/64/33/planning-and-designing-concept-icon-system-vector-29166433.jpg" width="350" height="200">
+  <img src="https://cdn4.vectorstock.com/i/1000x1000/64/33/planning-and-designing-concept-icon-system-vector-29166433.jpg" width="400" height="300">
 </p>
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://blog.algomaster.io/">Newsletter</a>
