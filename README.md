@@ -6,25 +6,26 @@
 </p> -->
 Learn System Design concepts and prepare for interviews using free resources.
 
+
 ## 📌 System Design Key Concepts
-- [Scalability](https://blog.algomaster.io/p/scalability)
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb)
-- [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
-- [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
-- [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
-- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
-- [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
-- [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
-- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
-- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
-- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
-- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
-- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
-- [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
-- [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
-- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
+- <a href="https://blog.algomaster.io/p/scalability" style="color:red">Scalability</a>
+- <a href="https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/" style="color:red">Latency vs Throughput</a>
+- <a href="https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb" style="color:red">CAP Theorem</a>
+- <a href="https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989" style="color:red">ACID Transactions</a>
+- <a href="https://highscalability.com/consistent-hashing-algorithm/" style="color:red">Consistent Hashing</a>
+- <a href="https://www.imperva.com/learn/application-security/rate-limiting/" style="color:red">Rate Limiting</a>
+- <a href="https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f" style="color:red">API Design</a>
+- <a href="https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7" style="color:red">Strong vs Eventual Consistency</a>
+- <a href="https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761" style="color:red">Synchronous vs. asynchronous communications</a>
+- <a href="https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/" style="color:red">REST vs RPC</a>
+- <a href="https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661" style="color:red">Batch Processing vs Stream Processing</a>
+- <a href="https://www.cockroachlabs.com/blog/what-is-fault-tolerance/" style="color:red">Fault Tolerance</a>
+- <a href="https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c" style="color:red">Consensus Algorithms</a>
+- <a href="http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html" style="color:red">Gossip Protocol</a>
+- <a href="https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575" style="color:red">Service Discovery</a>
+- <a href="https://cloud.google.com/learn/what-is-disaster-recovery" style="color:red">Disaster Recovery</a>
+- <a href="https://www.dynatrace.com/news/blog/what-is-distributed-tracing/" style="color:red">Distributed Tracing</a>
+- <a href="https://blog.algomaster.io/p/system-design-top-15-trade-offs" style="color:red">Top 15 Tradeoffs</a>
 
 ## 🛠️ System Design Building Blocks
 - [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
