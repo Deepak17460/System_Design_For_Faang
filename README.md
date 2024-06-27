@@ -64,7 +64,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 
 
 ## ✅ How to Answer a System Design Interview Problem
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*CuZKBrNKP8VF-jVfJhhWWw.png" width="600" height="250">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*CuZKBrNKP8VF-jVfJhhWWw.png" width="800" height="250">
 
 ### [Read the Full Article](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 
