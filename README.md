@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://w1.pngwing.com/pngs/323/756/png-transparent-web-design-icon-content-management-system-web-application-user-interface-html-web-content-internet-text.png" width="600" height="500">
+  <img src="https://w1.pngwing.com/pngs/323/756/png-transparent-web-design-icon-content-management-system-web-application-user-interface-html-web-content-internet-text.png" width="900" height="500">
 </p>
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://blog.algomaster.io/">Newsletter</a>
